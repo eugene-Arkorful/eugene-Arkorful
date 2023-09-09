@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eugene-Arkorful
-- 👀 I’m interested in ...web development 
-- 🌱 I’m currently learning ... Access course- Computer Science 
+- 👀 I’m interested in ...web development
+i am currently studying computer science @ Manchester Metropolitan University 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@eugene_wrld IG
 
