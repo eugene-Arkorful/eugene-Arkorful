@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eugene-Arkorful
-- 👀 I’m interested in ...web development
-i am currently studying computer science @ Manchester Metropolitan University 
+- 👀 I used to run a wrb developemnt & Automation Agency, now working on my own app
+i am currently studying computer science @ Nottigham Trent University  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@eugene_wrld IG
 
