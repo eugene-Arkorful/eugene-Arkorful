@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eugene Arkorful
-💻 Former founder of a Web Development & Automation Agency, now building my own app.
+💻 A Web Development & Automation Agency, now building my own app.
 🎓 Currently studying Computer Science at Nottingham Trent University.
 🤝 Open to collaborating on AI, automation, and SaaS-related projects.
 📫 Reach me on Instagram: @eugene_wmn
